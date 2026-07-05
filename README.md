@@ -15,6 +15,8 @@ Whether you're comparing your age with a friend, sibling, parent, or anyone else
 * ✨ Proper singular and plural formatting (e.g., *1 day* vs. *2 days*)
 * 🌐 Simple, responsive web interface built with Streamlit
 
+Check out the complete walkthrough I've made on this repo: [Building Python Utilities for Accurate Age Calculations with Better Date Logic](https://nsdsda.medium.com/building-python-utilities-for-accurate-age-calculations-with-better-date-logic-61f4400a5628)
+
 ## Tech Stack
 
 * **Python**
